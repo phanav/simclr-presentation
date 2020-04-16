@@ -27,4 +27,4 @@ The goal is to encourage the representations of the positive pair to be similar,
 
 <img src="https://amitness.com/images/simclr-general-architecture.png">
 Image source:
-https://amitness.com/2020/03/illustrated-simclr/\
+https://amitness.com/2020/03/illustrated-simclr
