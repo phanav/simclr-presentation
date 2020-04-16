@@ -1,11 +1,9 @@
 # simclr-presentation
 
 Video:
-
 https://www.youtube.com/watch?v=5lsmGWtxnKA
 
 Slides:
-
 https://docs.google.com/presentation/d/1_vlBepZ4kMWqv9J0_4SYMSYcOaoxCSGW1HLvo_UlBZQ/edit?usp=sharing
 
 
@@ -28,4 +26,5 @@ The positive pair is mixed with other negative samples.
 The goal is to encourage the representations of the positive pair to be similar, while mamimizing the difference with the other negative samples.
 
 <img src="https://amitness.com/images/simclr-general-architecture.png">
-https://amitness.com/2020/03/illustrated-simclr/
+Image source:
+https://amitness.com/2020/03/illustrated-simclr/\
