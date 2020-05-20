@@ -6,6 +6,8 @@ https://www.youtube.com/watch?v=5lsmGWtxnKA
 Slides:
 https://docs.google.com/presentation/d/1_vlBepZ4kMWqv9J0_4SYMSYcOaoxCSGW1HLvo_UlBZQ/edit?usp=sharing
 
+Paper:
+https://arxiv.org/abs/2002.05709
 
 Annoting data is tedious and costly.
 Meanwhile, unlabeled data is widely available or can be collected with little effort.
