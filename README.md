@@ -14,8 +14,8 @@ Meanwhile, unlabeled data is widely available or can be collected with little ef
 Self-supervised learning aims to automate the labeling process and leverage the abundance of unlabeled data.
 
 One approach among these is contrastive learning.
-Constrastive learning attempts to teach a model to distinguish similar and difference categories.
-The main idea is, if 2 images are similar, then their visual representations in the feature space should be close to each other.
+Constrastive learning attempts to teach a model to distinguish similar and different categories.
+The main idea is: if 2 images are similar, then their visual representations in the feature space should be close to each other.
 Enforcing the similarity between these representations should help the model learn high-level distinctive features of each category.
 
 SimCLR is a simple framework for contrastive learning of visual representation.
